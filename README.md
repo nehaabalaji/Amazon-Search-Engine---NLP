@@ -2,7 +2,7 @@
 
 The objective of this project was to create a review-based search engine for opinions
 expressed on Amazon using an opinion-based approach.
-The minimum requirements of the project is the baselineBoolean search which finds
+The minimum requirements of the project is the baseline Boolean search which finds
 matches to all keywords. However, boolean search does not understand "sentiment" nor
 "context". As such, I created a number of additional NLP-based methods to better attempt to
 recognize sentiment, aspect-opinion relationships, and context of a review.
